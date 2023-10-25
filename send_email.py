@@ -4,7 +4,7 @@ import ssl
 
 
 def send_email(message):
-    host = "smtp.@gmail.com"
+    host = "smtp.gmail.com"
     port = 465
 
     username = "sendemailpython2@gmail.com"
